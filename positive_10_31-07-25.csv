@@ -1,0 +1,11 @@
+id,name,current_price,market_cap,price_change_24h,price_change_percentage_24h,ath,atl,time_stamp
+ether-fi-staked-btc,Ether.fi Staked BTC,119735.0,363452168,4131.36,3.57374,122924.0,58795.0,31-07-25
+arbitrum-bridged-wbtc-arbitrum-one,Arbitrum Bridged WBTC (Arbitrum One),118318.0,943530232,798.01,0.67905,122778.0,49594.0,31-07-25
+tbtc,tBTC,118222.0,675066520,641.42,0.54551,122930.0,10104.3,31-07-25
+coinbase-wrapped-btc,Coinbase Wrapped BTC,118472.0,6463849277,556.43,0.47189,123036.0,57439.0,31-07-25
+bitcoin,Bitcoin,118373.0,2355617029686,552.08,0.46858,122838.0,67.81,31-07-25
+bitcoin-avalanche-bridged-btc-b,Avalanche Bridged BTC (Avalanche),118363.0,576568328,546.47,0.46384,123072.0,7806.11,31-07-25
+lombard-staked-btc,Lombard Staked BTC,118244.0,1648502179,540.67,0.45935,123777.0,52119.0,31-07-25
+unit-bitcoin,Unit Bitcoin,118319.0,380831790,468.86,0.39785,122998.0,73355.0,31-07-25
+solv-protocol-solvbtc-bbn,Solv Protocol Staked BTC,117136.0,575296588,459.3,0.39365,121137.0,11402.13,31-07-25
+wrapped-bitcoin,Wrapped Bitcoin,118405.0,15023097201,438.13,0.3714,122745.0,3139.17,31-07-25
